@@ -1,2 +1,2 @@
 print("Hello from munkyung")
-print('hello from hosan')
+print("Hello from sanghwa")
