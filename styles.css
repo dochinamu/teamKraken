@@ -7,7 +7,6 @@
 	font-family: "Montserrat", sans-serif;
 }
 
-<<<<<<< Updated upstream
 .list1{
     background-color: rgb(209, 222, 248);
     padding-top: 10px;
@@ -56,13 +55,8 @@ footer {
   background-color: black;
   color: white; 
   padding: 1px; 
-<<<<<<< Updated upstream
-
-
- 
-=======
 }
-=======
+
 body {
 	min-width: fit-content;
 	margin: none;
@@ -97,7 +91,6 @@ body {
 .table_td {
     padding: 5px;
 }
->>>>>>> Stashed changes
 
 header {
 	background-color: black;
@@ -129,4 +122,3 @@ footer {
 .listitem {
   line-height: 35px; 
 }
->>>>>>> Stashed changes
