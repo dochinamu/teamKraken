@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+* {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  min-width: fit-content; 
+  margin:none; 
+  padding:none;
+}
+
+header{
+  background-color: black;
+  color: white; 
+  padding: 23px;
+  font-size: 20px; 
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.4);
+}
+
+footer {
+  background-color: black;
+  color: white; 
+  padding: 1px; 
+}
+
+p {
+  font-size: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.mainbox{
+  margin: 0px, auto, 0px, auto; 
+  background-color: rgb(125, 193, 248);
+  width: 80vw; 
+}
+.musiclist{
+  color: #FFFFFF; 
+  font-size: 30px;
+  line-height: 50px;
+}
+.image{
+  width: 350px; 
+  margin: 20px;
+}
