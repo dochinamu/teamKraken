@@ -126,3 +126,48 @@ footer {
 .listitem {
   line-height: 35px; 
 }
+
+.form-title {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.yw-text {
+    font-size: 30px;
+}
+
+.formm {
+    height: 25px;
+    width: 30%;
+    background-color: pink;
+    font-size: 15px;
+}
+
+.form-choice {
+    font-size: 20px;
+}
+.yw-buttons {
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 10px;
+}
+
+.yw-button {
+    font-size: 15px;
+    text-align: center;
+    padding: 5px 20px;
+    background-color: lightskyblue;
+    border-color: dodgerblue;
+    border-radius: 3px;
+}
+
+.yw-password {
+    margin-bottom: 20px;
+}
+
+.yeonwoo {
+    padding-top: 2%;
+    background-color: lavender;
+    padding-bottom: 2%;
+}
